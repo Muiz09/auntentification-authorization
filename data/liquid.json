@@ -1,0 +1,72 @@
+[
+  {
+    "flavour": "VANILLA RAISIN",
+    "merek": "JUTA SUNDAE",
+    "volume": 60,
+    "nikotin": 3,
+    "categoryId": 1
+  },
+  {
+    "flavour": "BANANA STRAWBERRY CREAM",
+    "merek": "JUTA SUNDAE",
+    "volume": 60,
+    "nikotin": 6,
+    "categoryId": 1
+  },
+  {
+    "flavour": "Original Oat Milk",
+    "merek": "OAT DRIPS",
+    "volume": 60,
+    "nikotin": 6,
+    "categoryId": 1
+  },
+  {
+    "flavour": "Strawberry Poundcake",
+    "merek": "EJM CREAM 8 VIII",
+    "volume": 60,
+    "nikotin": 3,
+    "categoryId": 1
+  },
+  {
+    "flavour": "BUBBLEGUM",
+    "merek": "KING BREWERY",
+    "volume": 60,
+    "nikotin": 3,
+    "categoryId": 1
+  },
+  {
+    "flavour": "Orange Spritzer Ice",
+    "merek": "Kaze Salt Nic Autumn Aki",
+    "volume": 15,
+    "nikotin": 35,
+    "categoryId": 2
+  },
+  {
+    "flavour": "VANILLA ICE CREAM RAISIN WITH MARSHMALLOW",
+    "merek": "PUBLIC",
+    "volume": 30,
+    "nikotin": 12,
+    "categoryId": 2
+  },
+  {
+    "flavour": "STRAWBERRY ICE CREAM",
+    "merek": "MOVI S'KUb",
+    "volume": 30,
+    "nikotin": 40,
+    "categoryId": 2
+  },
+  {
+    "flavour": "MIX BERRY ICE",
+    "merek": "FRUITY BOLD",
+    "volume": 50,
+    "nikotin": 12,
+    "categoryId": 2
+  },
+  {
+    "flavour": "LEMON SODA ICE",
+    "merek": "KING BREWERY",
+    "volume": 30,
+    "nikotin": 30,
+    "categoryId": 2
+  }
+]
